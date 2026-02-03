@@ -15,3 +15,4 @@ print("Each person pays:", share_per_person)
 print("Type of total_bill:", type(total_bill))
 print("Type of people:", type(people))
 print("Type of share_per_person:", type(share_per_person))
+#This is the resturant splitting method
