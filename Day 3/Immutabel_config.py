@@ -1,0 +1,4 @@
+screen_res = (1920, 1080)
+print(f"Current Resolution: {screen_res[0]}x{screen_res[1]}")
+print("Tuples cannot be modified!")
+screen_res[0] = 1280 # This will raise a TypeError,because tuples are immutable and cannot be changed after creation.
