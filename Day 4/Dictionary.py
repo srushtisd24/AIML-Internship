@@ -1,0 +1,13 @@
+student={
+    "name":"Srushti",
+    "id":74,
+    "branch":"cse",
+    "place":"belgaum"
+}
+print(student.get("id"))
+print(student.get("name"))
+print(student["branch"])
+print(student.pop("id"))
+print(student.popitem())
+student["branch"]="AIML"
+print(student)
