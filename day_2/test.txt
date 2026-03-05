@@ -1,2 +1,3 @@
 Data Science is very interesting
 Data Science is amazing
+Data Science is very interesting and amazing
