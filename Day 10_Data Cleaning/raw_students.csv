@@ -1,0 +1,9 @@
+StudentID,Name,Age,Gender,Score,Email
+1,John doe,20,male,85,john@example.com
+2, Jane Smith ,19,Female,90,janesmith@email.com
+3,Bob Johnson,,Male,78,bobj@email.com
+4,Alice Brown,21,Female,,alice@email.com
+5,Chris Lee,twenty,Male,88,chris@email
+6,John Doe,20,Male,85,john@example.com
+7,,22,Female,92,sarah@email.com
+8,Michael King,23,Male,75,michael@email.com
